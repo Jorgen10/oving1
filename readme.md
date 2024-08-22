@@ -1,6 +1,3 @@
-# Tips:
-
-Om du bruker Visual Studio Code, så kan du høyreklikker på en `.md` fil og trykke `preview`. Da vil bilder dukke opp, og lenker kan trykkes på for å åpne filer innenfor Visual Studio Code (eks: oppgave 6)
 # Oppgaver
 
 ## Oppgave 1
