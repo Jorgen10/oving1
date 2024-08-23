@@ -1,18 +1,23 @@
 # Oppgaver
 
 ## Oppgave 1
+
 ![Oppgave 1](./images/oppgave-1.png)
 
 ## Oppgave 2
+
 ![Oppgave 2](./images/oppgave-2.png)
 
 ## Oppgave 3
+
 ![Oppgave 3](./images/oppgave-3.png)
 
 ## Oppgave 4
+
 ![Oppgave 4](./images/oppgave-4.png)
 
 ## Oppgave 5
+
 ```py
 verdi1 = input("Skriv inn et tall: ")
 verdi1_tall = float(verdi1)
