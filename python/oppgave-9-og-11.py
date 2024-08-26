@@ -1,5 +1,4 @@
 import turtle
-turtle
 
 def rectangle(turtle, x, y, height, width, color):
     turtle.up()
