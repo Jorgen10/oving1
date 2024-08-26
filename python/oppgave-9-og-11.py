@@ -1,6 +1,6 @@
 import turtle
 
-def rectangle(turtle, x, y, height, width, color):
+def rectangle(turtle: turtle, x: int, y: int, height: int, width: int, color: str) -> None:
     turtle.up()
     turtle.goto(x, y)
     turtle.down()
@@ -13,7 +13,7 @@ def rectangle(turtle, x, y, height, width, color):
     turtle.up()
     turtle.end_fill()
 
-def triangle(turtle, x, y, height, width, color):
+def triangle(turtle: turtle, x: int, y: int, height: int, width: int, color: str) -> None:
     turtle.up()
     turtle.goto(x, y)
     turtle.down()
